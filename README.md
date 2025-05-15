@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mishran.2003@gmail.com**
 
-- ⚡ Fun fact **I believe Ctrl+C, Ctrl+V and Ctrl+Z is humanity’s best invention**
+- ⚡ Fun fact **I believe Ctrl+C and Ctrl+V is humanity’s best invention**
 
 
 <h3 align="left">Connect with me:</h3>
