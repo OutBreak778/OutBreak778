@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mishra</h1>
 <h3 align="center">A creative developer exploring AI and full stack tech</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=outbreak778&label=Profile%20views&color=0e75b6&style=flat" alt="outbreak778" /> </p>
 
 - 🌱 I’m currently learning **Machine learning and Deep learning concepts**
