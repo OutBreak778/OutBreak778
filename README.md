@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep learning concepts**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-outbreak778.vercel.app](https://nikhil-mishra-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://nikhil-mishra-portfolio.vercel.app](https://nikhil-mishra-portfolio.vercel.app)
 
 - 💬 Ask me about **MERN, Python, Flask, Machine learning**
 
