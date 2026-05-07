@@ -242,7 +242,21 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=outbreak778&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=outbreak778&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=outbreak778&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=outbreak778&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=outbreak778&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=outbreak778&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+---
