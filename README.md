@@ -248,4 +248,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=outbreak778&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outbreak778&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  ![](https://github-readme-stats.shion.dev/api?username=outbreak778&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=outbreak778&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=outbreak778&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
