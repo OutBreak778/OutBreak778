@@ -144,6 +144,18 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+        <br/><sub>Python</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.php.net/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+        <br/><sub>PHP</sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
         <br/><sub>Node.js</sub>
