@@ -53,7 +53,14 @@ I build and ship production web and mobile apps, from REST APIs and databases to
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Reanimated](https://img.shields.io/badge/Reanimated-001A72?style=flat-square&logo=react&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-6B52AE?style=flat-square&logo=react&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
 
 **Backend & Databases**
 
@@ -82,68 +89,27 @@ I build and ship production web and mobile apps, from REST APIs and databases to
 
 ---
 
-## 🚀 Selected Work
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=outbreak778&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&repos=outbreak778%2Fhelmet-detection-model%2Coutbreak778%2Fhelmet-watch-frontend%2Coutbreak778%2Fhelmet-watch-backend%2Coutbreak778%2Ffetchout-api%2Coutbreak778%2Fbudget-outbreak%2Coutbreak778%2Fresonance%2Coutbreak778%2Ftalklio" width="100%" alt="outbreak778 selected projects" />
+</p>
 
-### 🪖 Helmet Detection Model
-Computer vision model that detects whether riders are wearing helmets from images and video.
+---
 
-`Python` `Deep Learning` `Computer Vision`
+<h2>The tools behind the signal</h2>
 
-[View repository →](https://github.com/OutBreak778?tab=repositories)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=outbreak778&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=outbreak778&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Nikhil Mishra animated technology stack" />
+</picture>
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,react,nodejs,python,mysql,html,css,jquery&perline=9" alt="Languages and tools" />
+</p>
 
-### 🖥️ Helmet Detection: Frontend & Backend
-Web app and API that serve the detection model, so users can upload media and view results.
-
-`React` `Node.js` `REST APIs`
-
-[View repository →](https://github.com/OutBreak778?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔌 Fetchout API
-REST API built for clean, reliable data fetching with structured endpoints.
-
-`Node.js` `REST APIs` `TypeScript`
-
-[View repository →](https://github.com/OutBreak778?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Budget Outbreak
-Full-stack budget tracker, live on Vercel. 30 REST endpoints with Hono.js and DrizzleORM, Clerk authentication, and a dashboard summarizing accounts and spending.
-
-`Next.js` `TypeScript` `Hono.js` `NeonDB` `Clerk` `Tailwind`
-
-[View repository →](https://github.com/OutBreak778/expense-tracker)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-  
-### 💬 Talklio
-Real-time chat and calling app. Socket.io messaging and call signaling, Zustand state, Expo Router navigation, and native-feel animations with Reanimated.
-
-`React Native` `Expo` `TypeScript` `Socket.io` `Node.js`
-
-[View repository →](https://github.com/OutBreak778?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-More on my [repositories page](https://github.com/OutBreak778?tab=repositories).
+<p align="center"><sub>JavaScript · PHP · React.js · Node.js · Python · SQL · HTML · CSS · jQuery · chosen for the work, not the trend</sub></p>
 
 ---
 
@@ -165,7 +131,6 @@ More on my [repositories page](https://github.com/OutBreak778?tab=repositories).
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 </p>
----
 
 <div align="center">
 
