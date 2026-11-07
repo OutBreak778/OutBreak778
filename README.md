@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
 # Hi, I'm Nikhil Mishra 👋
 
 ### Full-Stack Developer · PHP · Node.js · React · React Native
