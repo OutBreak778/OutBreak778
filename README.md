@@ -1,279 +1,115 @@
-<h1 align="center">Hi 👋, I'm Nikhil Mishra</h1>
-<h3 align="center">A creative developer exploring AI and full stack tech</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif" />
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · outbreak778</sub></p>
+<h1>Nikhil Mishra</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building web apps, exploring AI/ML, and solving real-world problems. Always curious, always learning new things.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Nashik</sub></p>
+<p><a href="https://github.com/outbreak778">GitHub</a> &nbsp;·&nbsp; <a href="https://nikhil-mishra-portfolio.vercel.app">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/113422791?u=cbf918526c205c9a458e1425d5421185147a6686&amp;v=4" width="180" alt="Nikhil Mishra GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=outbreak778&label=Profile%20views&color=0e75b6&style=flat" alt="outbreak778" />
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · TypeScript · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>56 repositories · 13 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>487 contributions · 103 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Building web apps, exploring AI/ML, and solving real-world problems. Always curious, always learning new things.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>56</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>13</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>487</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=outbreak778&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=outbreak778&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Nikhil Mishra GitHub proof metrics" />
+</picture>
 </p>
 
-<br/>
+<h2>Selected work</h2>
 
-- 🌱 I'm currently learning **Machine Learning and Deep Learning**
-- 👨‍💻 All of my projects are available at [nikhil-mishra-portfolio.vercel.app](https://nikhil-mishra-portfolio.vercel.app)
-- 💬 Ask me about **MERN, Python, Flask, Machine Learning**
-- 📫 Reach me at **mishran.2003@gmail.com**
-- ⚡ Fun fact: **I believe Ctrl+C and Ctrl+V is humanity's greatest invention**
-
-<br/>
-
----
-
-<h3 align="left">🌐 Connect with me</h3>
-
-<table>
-  <tr>
-    <td align="center">
-  <a href="https://www.linkedin.com/in/nikhil-mishra-outbreak" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-    <br/><sub>LinkedIn</sub>
-  </a>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=outbreak778&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&repos=outbreak778%2Fdropbox%2Coutbreak778%2Fchat-note-ai%2Coutbreak778%2Fai-companion%2Coutbreak778%2Fexpense-tracker&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=outbreak778&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&repos=outbreak778%2Fdropbox%2Coutbreak778%2Fchat-note-ai%2Coutbreak778%2Fai-companion%2Coutbreak778%2Fexpense-tracker&v=recruiter-projects-1&mode=dark" width="100%" alt="Nikhil Mishra selected projects" />
+</picture>
 </td>
-    <td align="center">
-      <a href="https://codepen.io/@outbreak778" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="40" width="40"/>
-        <br/><sub>CodePen</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://stackoverflow.com/users/22560300" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40"/>
-        <br/><sub>Stack Overflow</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kaggle.com/outbreak778" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40"/>
-        <br/><sub>Kaggle</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dribbble.com/outbreak778" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="40" width="40"/>
-        <br/><sub>Dribbble</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.codechef.com/users/nikhil913750" target="_blank">
-        <img src="https://cdn.brandfetch.io/idM2-b7Taf/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1743159643976" alt="CodeChef" height="40" width="40"/>
-        <br/><sub>CodeChef</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.leetcode.com/outbreak_code01" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
-        <br/><sub>LeetCode</sub>
-      </a>
-    </td>
-  </tr>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/OutBreak778/dropbox">dropbox</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/OutBreak778/dropbox">Read the repository →</a></p>
+</td>
+</tr>
 </table>
 
-<br/>
-
----
-
-<h3 align="left">🛠️ Languages and Tools</h3>
-
-<h4 align="left">Frontend</h4>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-        <br/><sub>HTML5</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-        <br/><sub>CSS3</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-        <br/><sub>JavaScript</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-        <br/><sub>TypeScript</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-        <br/><sub>React</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nextjs.org/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-        <br/><sub>Next.js</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://redux.js.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-        <br/><sub>Redux</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-        <br/><sub>Tailwind</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/>
-        <br/><sub>Bootstrap</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.framer.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/>
-        <br/><sub>Framer</sub>
-      </a>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/OutBreak778/chat-note-ai">chat-note-ai</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/OutBreak778/ai-companion">ai-companion</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/OutBreak778/expense-tracker">expense-tracker</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 2</sub></p></td>
+</tr>
 </table>
 
-<h4 align="left">Backend & Database</h4>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
-        <br/><sub>Python</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.php.net/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-        <br/><sub>PHP</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-        <br/><sub>Node.js</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-        <br/><sub>MongoDB</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-        <br/><sub>MySQL</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-        <br/><sub>Postman</sub>
-      </a>
-    </td>
-  </tr>
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=outbreak778&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=outbreak778&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Nikhil Mishra technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>44% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>35% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>18% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>1% of public code</sub></td>
+</tr>
 </table>
 
-<h4 align="left">Languages</h4>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-        <br/><sub>Python</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-        <br/><sub>C</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-        <br/><sub>C++</sub>
-      </a>
-    </td>
-  </tr>
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=outbreak778&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=outbreak778&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Nikhil Mishra contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/outbreak778">GitHub</a><br /><a href="https://nikhil-mishra-portfolio.vercel.app">Website</a></td>
+</tr>
 </table>
 
-<h4 align="left">AI / ML</h4>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-        <br/><sub>TensorFlow</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-        <br/><sub>Scikit-learn</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-        <br/><sub>Pandas</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.chartjs.org" target="_blank">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-        <br/><sub>Chart.js</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h4 align="left">Design & Tools</h4>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-        <br/><sub>Figma</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-        <br/><sub>Git</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=outbreak778&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=outbreak778&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=outbreak778&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
-
----
+<p align="center"><sub>Nikhil Mishra · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
