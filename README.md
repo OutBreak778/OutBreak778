@@ -89,27 +89,11 @@ I build and ship production web and mobile apps, from REST APIs and databases to
 
 ---
 
-<summary><b>📌 Top projects</b></summary>
 <br/>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/projects?username=outbreak778&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&repos=outbreak778%2Fhelmet-detection-model%2Coutbreak778%2Ffetchout-api%2Coutbreak778%2Fbudget-outbreak%2Coutbreak778%2Fresonance%2Coutbreak778%2Ftalklio" width="100%" alt="outbreak778 selected projects" />
+<img src="https://www.gitskins.com/api/section/projects?username=outbreak778&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&repos=outbreak778%2Fhelmet-detection-model%2Coutbreak778%2Ffetchout-api%2Coutbreak778%2Fbudget-outbreak%2Coutbreak778%2Fresonance%2Coutbreak778%2Ftalklio" width="100%" alt="outbreak778 selected projects" />
 </p>
-
----
-
-<h2>The tools behind the signal</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=outbreak778&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=outbreak778&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Nikhil Mishra animated technology stack" />
-</picture>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,react,nodejs,python,mysql,html,css,jquery&perline=9" alt="Languages and tools" />
-</p>
-
-<p align="center"><sub>JavaScript · PHP · React.js · Node.js · Python · SQL · HTML · CSS · jQuery · chosen for the work, not the trend</sub></p>
 
 ---
 
