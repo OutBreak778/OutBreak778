@@ -11,8 +11,8 @@
 <p><sub>Based in Nashik</sub></p>
 <p><a href="https://github.com/outbreak778">GitHub</a> &nbsp;·&nbsp; <a href="https://nikhil-mishra-portfolio.vercel.app">Website</a></p>
 </td>
-<td width="36%" valign="middle" align="center">
-<img src="https://camo.githubusercontent.com/93b94217bfafa1828e8f5d5ad4e134f80eb8eb236d5b17323e6afed3ed457c2d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f32323535333435322f66696c652f6f726967696e616c2d62656634633964356239653230336531353935623463616565326362313030382e676966" width="360" alt="Nikhil Mishra GitHub avatar" />
+<td width="42%" valign="middle" align="center">
+<img src="https://camo.githubusercontent.com/93b94217bfafa1828e8f5d5ad4e134f80eb8eb236d5b17323e6afed3ed457c2d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f32323535333435322f66696c652f6f726967696e616c2d62656634633964356239653230336531353935623463616565326362313030382e676966" width="420" alt="Nikhil Mishra GitHub avatar" />
 </td>
 </tr>
 </table>
