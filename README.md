@@ -92,7 +92,7 @@ I build and ship production web and mobile apps, from REST APIs and databases to
 <br/>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/projects?username=outbreak778&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&repos=outbreak778%2Fhelmet-detection-model%2Coutbreak778%2Ffetchout-api%2Coutbreak778%2Fbudget-outbreak%2Coutbreak778%2Fresonance%2Coutbreak778%2Ftalklio" width="100%" alt="outbreak778 selected projects" />
+<img src="https://www.gitskins.com/api/section/projects?username=outbreak778&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F113422791%3Fu%3Dcbf918526c205c9a458e1425d5421185147a6686%26v%3D4&repos=outbreak778%2Fhelmet-detection-model%2Coutbreak778%2Ffetchout-api%2Coutbreak778%2Fbudget-outbreak%2Coutbreak778%2Fresonance%2Coutbreak778%2Ftalklio" width="100%" alt="outbreak778 selected projects" />
 </p>
 
 ---
