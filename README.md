@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="90%" />
 
 # Hi, I'm Nikhil Mishra 👋
 
@@ -8,7 +8,7 @@
 
 I build and ship production web and mobile apps, from REST APIs and databases to polished, responsive interfaces. Certified in Python and Machine Learning (IIT Bombay, Infosys Springboard), and currently exploring AI-driven features.
 
-📍 Nashik, Maharashtra, India &nbsp;·&nbsp; 🟢 Open to full-stack roles &nbsp;·&nbsp; 🚀 Open to relocate to Mumbai
+📍 Nashik, Maharashtra, India &nbsp;·&nbsp; 🟢 Open to full-stack roles
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nikhil--mishra--portfolio.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhil-mishra-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-mishran.2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishran.2003@gmail.com)
@@ -43,6 +43,11 @@ I build and ship production web and mobile apps, from REST APIs and databases to
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 **Mobile**
 
@@ -58,6 +63,11 @@ I build and ship production web and mobile apps, from REST APIs and databases to
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Languages, AI/ML & Tools**
 
@@ -121,19 +131,7 @@ Full-stack budget tracker, live on Vercel. 30 REST endpoints with Hono.js and Dr
 </tr>
 <tr>
 <td colspan="2" valign="top">
-
-### 🎵 Resonance
-Short one-line description of what Resonance does.
-
-`Add` `Your` `Stack`
-
-[View repository →](https://github.com/OutBreak778?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
+  
 ### 💬 Talklio
 Real-time chat and calling app. Socket.io messaging and call signaling, Zustand state, Expo Router navigation, and native-feel animations with Reanimated.
 
@@ -161,9 +159,12 @@ More on my [repositories page](https://github.com/OutBreak778?tab=repositories).
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0A66C2/outbreak778" alt="GitHub contribution chart" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 </p>
-
 ---
 
 <div align="center">
@@ -172,8 +173,5 @@ More on my [repositories page](https://github.com/OutBreak778?tab=repositories).
 
 Hiring for a full-stack role, or have a product idea that needs a reliable builder?
 I'd love to hear about it.
-
-[![Email me](https://img.shields.io/badge/Email_me-mishran.2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishran.2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhil-mishra-portfolio.vercel.app)
 
 </div>
